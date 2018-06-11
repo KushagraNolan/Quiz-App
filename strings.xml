@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1text">Question 1</string>
+    <string name="question2text">Question 2</string>
+    <string name="question3text">Question 3</string>
+    <string name="question4text">Question 4</string>
+    <string name="question5text">Question 5</string>
+    <string name="question1">Which of these is NOT something Batman uses?</string>
+    <string name="answerBatarang">Batarang</string>
+    <string name="answerUnderWaterBreather">Underwater Breather</string>
+    <string name="answerGun">Gun</string>
+    <string name="question2">Who did Katie Holmes play in Batman Begins?</string>
+    <string name="answerBatMan">Batman</string>
+    <string name="answerSelinaKyle">Selina Kyle</string>
+    <string name="answerRachelDawson">Rachel Dawson</string>
+    <string name="question3">Finish the quote: "You either die a hero or you live long enough to see yourself become the"</string>
+    <string name="answerVillian">Villian</string>
+    <string name="question4">What side of Harvey Dent\s face was burned?</string>
+    <string name="answerLeftSide">LeftSide</string>
+    <string name="answerRightSide">RightSide</string>
+    <string name="answerRightDownTheMiddle">Right Down The Middle</string>
+    <string name="question5">Who says he is Batman so that the true Batman can keep his identity hidden?</string>
+    <string name="answerHarveyDent">Harvey Dent</string>
+    <string name="answerLuciusFox">Lucius Fox</string>
+    <string name="answerJimGorden">Jim Gorden</string>
+
+</resources>
